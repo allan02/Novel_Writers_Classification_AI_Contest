@@ -1,4 +1,4 @@
-# Novel_Writers_Classification_AI_Contest
+# Novel Writers Classification AI Contest
 <ul>
   <li>https://dacon.io/competitions/official/235670/overview/</li><br>
   <li>월간 데이콘 9 | 소설 문체 | NLP | Logloss</li><br>
